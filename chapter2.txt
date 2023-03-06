@@ -1,1 +1,1 @@
-This is now chapter 2
+This is the second chapter on Git and Github.
