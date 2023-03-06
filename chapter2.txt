@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the second chapter on Git and Github
+=======
+This is the second chapter on Git and Github.
+>>>>>>> alien-plot

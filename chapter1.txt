@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Introduction to Git & Github:
 This part talks about the introduction to git and github.
+=======
+Introduction to Git and Github
+>>>>>>> alien-plot
